@@ -5,7 +5,7 @@
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
 * Explain the purpose of the analysis.
-The purpose of the analysis is to build a model that can identify the creditworthiness of borrowers.
+/n The purpose of the analysis is to build a model that can identify the creditworthiness of borrowers.
 * Explain what financial information the data was on, and what you needed to predict.
 The financial information that were provided to the model as features were the loan size, the interest rate, the borrower income, the debt to income ratio, number of accounts, derogatory marks and the total debt and the loan statu was to be predicted and determined if it was a healthy loan or a high-rist loan. 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
