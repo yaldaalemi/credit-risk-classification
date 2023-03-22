@@ -34,5 +34,6 @@ Summarize the results of the machine learning models, and include a recommendati
 * Which one seems to perform best? How do you know it performs best?
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
 
-* If you do not recommend any of the models, please justify your reasoning.
+If you do not recommend any of the models, please justify your reasoning.
+
 The second model is better but overall it depends on the priority of the organization. If the goal is to minimize approving the high-risk loans, then the precision is more important to insure that the model only approves the healthy loans. On the other hand, if the goal is to approve as many loans as possible without missing any healthy loans, then the recall is more important to make sure that the model does not miss any healthy loans even though it might include some high-risk loans. In some cases a balance between the precision and the recall is needed. 
