@@ -28,14 +28,15 @@ Here are the results for the machine learning models:
 - **Accuracy**: 0.99
   - Note: While accuracy is high, it may not be the best indicator due to class imbalance.
 - **Precision**: 100% for healthy loans, 87% for high-risk loans.
-- **Recall**: 100% for healthy loans, 89% for high-risk loans.
+- **Recall**: 100% for healthy loans, 100% for high-risk loans.
 - **F1-Score**: A balanced measure that considers precision and recall.
 
 ### Machine Learning Model 2
 
-- **Accuracy**: Describe accuracy here.
-- **Precision**: Describe precision here.
-- **Recall**: Describe recall here.
+- **Accuracy**: 0.99
+  - Note: While accuracy is high, it may not be the best indicator due to class imbalance.
+- **Precision**: 100% for healthy loans, 87% for high-risk loans.
+- **Recall**: 100% for healthy loans, 89% for high-risk loans.
 
 The second model showed improvements in recall for high-risk loans, indicating that resampling the data helped classify all high-risk loans.
 
