@@ -47,5 +47,3 @@ In summary:
 - **Model Recommendation**: Model 2 is preferred due to its improved performance in identifying high-risk loans. However, the choice of model may depend on the organization's priorities.
   
 - **Performance Consideration**: The choice between models should consider the organization's goals. If minimizing high-risk loans is the top priority, precision should be emphasized to ensure that only healthy loans are approved. If the goal is to approve as many loans as possible without missing healthy loans, recall becomes more critical to minimize false negatives, even if it means including some high-risk loans. Balancing precision and recall may be necessary in some cases.
-
-Please update the placeholders (e.g., accuracy, precision, recall) with the actual values from your analysis. Additionally, consider providing more context and details about Model 2's performance.
